@@ -71,7 +71,7 @@
     }
 
     .uni-hello-text {
-        color: #7A7E83;
+        /* color: #7A7E83; */
     }
 
     .uni-hello-addfile {
