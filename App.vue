@@ -1,7 +1,7 @@
 <script>
     export default {
         onLaunch: function() {
-            console.log('App Launcheee');
+            console.log('App Launcheeeeee');22
             // #ifdef APP-PLUS
             // 锁定屏幕方向
             plus.screen.lockOrientation('portrait-primary'); //锁定
